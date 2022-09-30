@@ -1,12 +1,104 @@
-1: RD 1: rstarted
-2: Elf 2: started
-3: Elf 1: started
-4: Santa: going to sleep
-5: Elf 2: need help
-6: Elf 1: need help
-7: RD 1: return home
-8: Santa: closing workshop
-9: RD 1: get hitched
-10: Santa: Christmas started
-11: Elf 2: taking holidays
-12: Elf 1: taking holidays
+1: Santa: going to sleep
+2: Elf 1: started
+3: Elf 2: started
+4: Elf 3: started
+5: Elf 3: need help
+6: Elf 4: started
+7: Elf 5: started
+8: Elf 6: started
+9: Elf 7: started
+10: Elf 8: started
+11: Elf 9: started
+12: Elf 10: started
+13: Elf 11: started
+14: Elf 12: started
+15: RD 1: rstarted
+16: RD 2: rstarted
+17: RD 3: rstarted
+18: RD 4: rstarted
+19: RD 5: rstarted
+20: RD 2: return home
+21: RD 6: rstarted
+22: RD 7: rstarted
+23: RD 1: return home
+24: RD 3: return home
+25: RD 8: rstarted
+26: RD 9: rstarted
+27: RD 4: return home
+28: RD 10: rstarted
+29: RD 5: return home
+30: RD 11: rstarted
+31: RD 6: return home
+32: RD 8: return home
+33: RD 12: rstarted
+34: RD 13: rstarted
+35: RD 7: return home
+36: RD 14: rstarted
+37: RD 9: return home
+38: RD 15: rstarted
+39: RD 10: return home
+40: RD 12: return home
+41: RD 13: return home
+42: RD 16: rstarted
+43: RD 11: return home
+44: RD 17: rstarted
+45: RD 18: rstarted
+46: RD 14: return home
+47: RD 16: return home
+48: RD 19: rstarted
+49: RD 15: return home
+50: Elf 12: need help
+51: RD 18: return home
+52: RD 17: return home
+53: Elf 4: need help
+54: Santa: helping elves
+55: Elf 3: get help
+56: Elf 12: get help
+57: Elf 4: get help
+58: Santa: going to sleep
+59: RD 19: return home
+60: Santa: closing workshop
+61: RD 2: get hitched
+62: RD 1: get hitched
+63: RD 3: get hitched
+64: RD 4: get hitched
+65: RD 5: get hitched
+66: RD 6: get hitched
+67: RD 8: get hitched
+68: RD 7: get hitched
+69: RD 9: get hitched
+70: Elf 11: need help
+71: Elf 11: taking holidays
+72: RD 10: get hitched
+73: RD 12: get hitched
+74: RD 13: get hitched
+75: RD 11: get hitched
+76: RD 14: get hitched
+77: RD 16: get hitched
+78: RD 15: get hitched
+79: RD 18: get hitched
+80: RD 17: get hitched
+81: RD 19: get hitched
+82: Santa: Christmas started
+83: Elf 7: need help
+84: Elf 7: taking holidays
+85: Elf 3: need help
+86: Elf 3: taking holidays
+87: Elf 9: need help
+88: Elf 9: taking holidays
+89: Elf 2: need help
+90: Elf 2: taking holidays
+91: Elf 8: need help
+92: Elf 8: taking holidays
+93: Elf 12: need help
+94: Elf 12: taking holidays
+95: Elf 6: need help
+96: Elf 6: taking holidays
+97: Elf 5: need help
+98: Elf 5: taking holidays
+99: Elf 10: need help
+100: Elf 10: taking holidays
+101: Elf 1: need help
+102: Elf 1: taking holidays
+103: Elf 4: need help
+104: Elf 4: taking holidays
